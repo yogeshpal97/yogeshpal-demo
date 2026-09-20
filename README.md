@@ -1,4 +1,8 @@
 # yogeshpal-demo
 This is my first Git Repository.
-<br>
-Author - Yogesh Pal
+
+# Author :
+Yogesh Pal
+
+# Moto
+Uses of git and github.
